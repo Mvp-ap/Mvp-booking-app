@@ -1,0 +1,13 @@
+{
+  "appTitle": "Appointment Manager",
+  "language": "Language",
+  "staff": "Staff",
+  "clients": "Clients",
+  "services": "Services",
+  "appointments": "Appointments",
+  "selectDate": "Select Date",
+  "add": "Add",
+  "name": "Name",
+  "save": "Save",
+  "cancel": "Cancel"
+}
